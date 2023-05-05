@@ -1,5 +1,5 @@
 # Tinted-Glass-Rain
-A clean style discord theme made for a nice clean feel.
+A clean style discord theme made for a nice clean feel. The background and buttons are both gifs.
 <hr>
 
 Current version: v1.0 (5/04/2023)
