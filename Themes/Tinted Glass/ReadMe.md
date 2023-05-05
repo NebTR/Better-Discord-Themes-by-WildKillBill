@@ -1,21 +1,22 @@
-#Tinted Glass by WildKillBill
+# Tinted Glass by WildKillBill
 A clean rain fall theme to keep you calm.
 version 1.0.2 (5/05/2023)
 <hv>
- 
-## Main Chat Space
+## Preview
+
+### Main Chat Space
 
 
-## User Server Info
+### User Server Info
   
   
-## User Popout
+### User Popout
   
   
-## User Settings
+### User Settings
   
   
-## Dms
+### Dms
   
   
   
