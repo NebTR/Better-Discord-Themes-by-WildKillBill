@@ -2,7 +2,7 @@ Tinted glass by WildKillBill
 A simple theme made with a car for a calming background on discord
 <hv>
 
-Current version: v1.0.1 (5/05/2023)
+Current version: v1.0 (5/05/2023)
   
 ## Previews
 
@@ -28,5 +28,5 @@ Current version: v1.0.1 (5/05/2023)
   
 ## Changelog
   
-#### v1.0.1 (5/05/2023)
+#### v1.0 (5/05/2023)
 * Fixed the font changing to an unreadable text
