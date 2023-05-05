@@ -8,25 +8,31 @@ Current version: v1.0 (5/04/2023)
 
 ### Main Chat Area
 
-![Discord-404](raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/Main%20chat.png)
+![Main chat](https://user-images.githubusercontent.com/128874958/236389372-bf42491b-a5af-4f1b-8e95-9f6f8d067e11.png)
+
 
 #### User server info
 
-![Discord-405](https://raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/User%20server%20info.png?token=GHSAT0AAAAAACB55QCKOKUY6X6CA5NR2LV6ZCUTNBQ)
+![User server info](https://user-images.githubusercontent.com/128874958/236389384-7ff143be-139a-41e5-aae0-b4bd5ea9bcd1.png)
+
 
 #### User info popout
 
-![Discord-406](https://raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/User%20info%20popout.png?token=GHSAT0AAAAAACB55QCK3EEVQF2LJ6XA7VEAZCUTQOA)
+![User info popout](https://user-images.githubusercontent.com/128874958/236389392-98f1d461-88b6-4dad-948c-f520c97546bc.png)
+
 
 #### User settings
 
-![Discord-407](https://raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/User%20Settings.png?token=GHSAT0AAAAAACB55QCLGXRKDOSUOQ54Y3JCZCUTQYA)
+![User Settings](https://user-images.githubusercontent.com/128874958/236389402-4735dfd7-dda0-4ead-b132-46e639c236fc.png)
+
 
 #### DMs
 
-![Discord-408](https://raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/DMS.png?token=GHSAT0AAAAAACB55QCLDVMWPZ736PUPJW2IZCUTREQ)
+![DMS](https://user-images.githubusercontent.com/128874958/236389413-dad5eb88-9017-4c43-b9c1-f063b5609310.png)
+
 
 ## Changelog
 
 #### v1.0 (5/04/2023)
 * Added the page and the theme
+* Fixed pictures
