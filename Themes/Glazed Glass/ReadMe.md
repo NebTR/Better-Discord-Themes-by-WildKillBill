@@ -1,5 +1,5 @@
 Tinted glass by WildKillBill
-A simple theme made for a calming background on discord
+A simple theme made with a car for a calming background on discord
 <hv>
 
 Current version: v1.0.1 (5/05/2023)
