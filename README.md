@@ -7,6 +7,6 @@
  
  + [Tinted Glass](https://github.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/tree/main/Themes/Tinted%20Glass)
  
- 
+![Discord-101](https://user-images.githubusercontent.com/128874958/236556006-f1dbbb15-a40d-4c68-9b53-0008c553b3f7.png)
  
  + [Glazed Glass](https://github.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/tree/main/Themes/Glazed%20Glass)
