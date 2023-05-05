@@ -33,6 +33,5 @@ Current version: v1.0 (5/04/2023)
 
 ## Changelog
 
-#### v1.0 (5/04/2023)
-* Added the page and the theme
-* Fixed pictures
+#### v1.0.1 (5/04/2023)
+* Fixed the font changing to an unreadable text
