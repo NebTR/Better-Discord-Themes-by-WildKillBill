@@ -8,7 +8,7 @@ Current version: v1.0 (5/04/2023)
 
 ### Main Chat Area
 
-![Discord-404]([assets/Main chat.png](https://github.com/WildKillBill/Tinted-Glass-Rain/blob/main/assets/Main%20chat.png?raw=true))
+![Discord-404](raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/Main%20chat.png)
 
 #### User server info
 
