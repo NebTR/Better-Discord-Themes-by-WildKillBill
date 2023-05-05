@@ -8,25 +8,25 @@ Current version: v1.0 (5/05/2023)
 
 ### Main Chat Area
 
-![Main chat](https://user-images.githubusercontent.com/128874958/236389372-bf42491b-a5af-4f1b-8e95-9f6f8d067e11.png)
+![Discord-101](https://user-images.githubusercontent.com/128874958/236556006-f1dbbb15-a40d-4c68-9b53-0008c553b3f7.png)
 
 #### User server info
 
-![User server info](https://user-images.githubusercontent.com/128874958/236389384-7ff143be-139a-41e5-aae0-b4bd5ea9bcd1.png)
+![Discord-102](https://user-images.githubusercontent.com/128874958/236556043-c4a97c10-7d4f-4891-8a61-fd0b3bff7ae7.png)
   
 #### User info popout
   
-![User info popout](https://user-images.githubusercontent.com/128874958/236389392-98f1d461-88b6-4dad-948c-f520c97546bc.png)
+![Discord-103](https://user-images.githubusercontent.com/128874958/236556071-f3be3ef1-1c68-457c-a2fa-ee9da369f06d.png)
   
 #### User settings
   
-![User Settings](https://user-images.githubusercontent.com/128874958/236389402-4735dfd7-dda0-4ead-b132-46e639c236fc.png)
+![Discord-104](https://user-images.githubusercontent.com/128874958/236556096-b6bbcd72-160f-4a3e-aa10-06811ccc5283.png)
   
 #### DMs
   
-![DMS](https://user-images.githubusercontent.com/128874958/236389413-dad5eb88-9017-4c43-b9c1-f063b5609310.png)
-  
+![Discord-105](https://user-images.githubusercontent.com/128874958/236556114-e014fda7-bacf-4e7e-ae31-874d95176d86.png)
+
 ## Changelog
   
 #### v1.0 (5/05/2023)
-* Fixed the font changing to an unreadable text
+* New theme
