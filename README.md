@@ -25,3 +25,8 @@ Current version: v1.0 (5/04/2023)
 #### DMs
 
 ![Discord-408](https://raw.githubusercontent.com/WildKillBill/Tinted-Glass-Rain/main/assets/DMS.png?token=GHSAT0AAAAAACB55QCLDVMWPZ736PUPJW2IZCUTREQ)
+
+## Changelog
+
+#### v1.0 (5/04/2023)
+* Added the page and the theme
