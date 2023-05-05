@@ -2,7 +2,7 @@
 A clean style discord theme made for a nice clean feel. The background and buttons are both gifs.
 <hr>
 
-Current version: v1.0.1 (5/04/2023)
+Current version: v1.0.1 (5/05/2023)
 
 ## Previews
 
@@ -33,5 +33,5 @@ Current version: v1.0.1 (5/04/2023)
 
 ## Changelog
 
-#### v1.0.1 (5/04/2023)
+#### v1.0.1 (5/05/2023)
 * Fixed the font changing to an unreadable text
