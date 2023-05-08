@@ -34,6 +34,6 @@ https://raw.githubusercontent.com/WildKillBill/Better-Discord-Themes-by-WildKill
 
 ## Changelogs 
 
-#### v1.0.3  (5/08/2023)
+#### v1.0.3.1  (5/08/2023)
 * Made it easier for vencord users
   
