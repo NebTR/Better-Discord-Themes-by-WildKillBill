@@ -1,6 +1,6 @@
 # Better discord themes by WildKillBill
-##### v1.0.2.4 (5/08/2023)
-+ [Images are clickable](https://github.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/edit/main/README.md#themes)
+##### v1.0.2.5 (5/08/2023)
++ [Images are clickable](#Themes)
 <hr>
 
 ## Themes
