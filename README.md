@@ -3,10 +3,10 @@
 
 ## Themes
  
- ![Discord-420](https://user-images.githubusercontent.com/128874958/236558810-4df1c6e7-db92-4ecc-a936-2bf18e12a4a0.png)
+ ![TintedGlass](https://user-images.githubusercontent.com/128874958/236896215-19badcc3-390b-4f95-b2dc-393bebcb5739.gif)
  
  + [Tinted Glass](https://github.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/tree/main/Themes/Tinted%20Glass)
- 
- ![Discord-101](https://user-images.githubusercontent.com/128874958/236556006-f1dbbb15-a40d-4c68-9b53-0008c553b3f7.png)
- 
+  
+ ![GlazedGlass](https://user-images.githubusercontent.com/128874958/236895730-02974989-dfdc-4df0-b491-fcea25311db2.gif)
+
  + [Glazed Glass](https://github.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/tree/main/Themes/Glazed%20Glass)
