@@ -31,6 +31,8 @@ Current version: v1.0 (5/05/2023)
   
 ![Discord-105](https://user-images.githubusercontent.com/128874958/236556114-e014fda7-bacf-4e7e-ae31-874d95176d86.png)
 
+<hv>
+
 ## Changelog
   
 #### v1.0.1 (5/08/2023)
