@@ -2,6 +2,12 @@
 A clean rain fall theme to keep you calm.
 version 1.0.2 (5/05/2023)
 <hv>
+  
+Vencord link
+```
+https://raw.githubusercontent.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/main/Themes/Tinted%20Glass/tintedglass.theme.css
+```
+  
 ## Preview
 
 ### Main Chat Space
@@ -26,6 +32,8 @@ version 1.0.2 (5/05/2023)
 
 <hv>
 
-# Changelogs (5/05/2023)
-* Reworked the theme to feel nicer
-* Add new tabs
+## Changelogs 
+
+### v1.0.3  (5/08/2023)
+* Made it easier for vencord users
+  
