@@ -33,7 +33,7 @@ Current version: v1.0 (5/05/2023)
 
 <hv>
 
-## Changelog
+## Changelogs
   
-#### v1.0.1  (5/08/2023)
+#### v1.0.1.1  (5/08/2023)
 * Made it easier for vencord users
