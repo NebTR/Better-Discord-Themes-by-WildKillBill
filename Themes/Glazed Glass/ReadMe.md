@@ -2,6 +2,11 @@ Tinted glass by WildKillBill
 A simple theme made with a car for a calming background on discord
 <hv>
 
+Vencord link
+```
+https://raw.githubusercontent.com/WildKillBill/Better-Discord-Themes-by-WildKillBill/main/Themes/Glazed%20Glass/glazedglass.theme.css
+```
+
 Current version: v1.0 (5/05/2023)
   
 ## Previews
@@ -28,5 +33,5 @@ Current version: v1.0 (5/05/2023)
 
 ## Changelog
   
-#### v1.0 (5/05/2023)
-* New theme
+#### v1.0.1 (5/05/2023)
+* Made it easier for vencord users
