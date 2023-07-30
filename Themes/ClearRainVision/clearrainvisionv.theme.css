@@ -1,7 +1,7 @@
 /**
  * @name ClearRainVision
  * @author WildKillBill
- * @version 1.0.0.2
+ * @version 1.0.0.3
  * @description Highly customizable and beautiful theme for BetterDiscord.
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
@@ -11,9 +11,10 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #63EBAE;
+  --main-color: #17D580;
   --hover-color: #10C373;
   --success-color: #5DF3AE;
   --danger-color: #982929;
@@ -30,36 +31,36 @@
   --background-saturation: 194%;
   --background-grayscale: 35%;
   --background-invert: 0%;
-  --background-blur: 3px;
+  --background-blur: 5px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/MWZZ25r.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
-  --user-popout-repeat: no-repeat;
+  --user-popout-repeat: repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
-  --user-popout-contrast: 100%;
-  --user-popout-saturation: 100%;
-  --user-popout-grayscale: 0%;
+  --user-popout-brightness: 120%;
+  --user-popout-contrast: 153%;
+  --user-popout-saturation: 139%;
+  --user-popout-grayscale: 29%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-blur: 6px;
+  --user-modal-image: url('https://i.imgur.com/ofYGj9y.gif');
   --user-modal-position: center;
   --user-modal-size: cover;
-  --user-modal-repeat: no-repeat;
+  --user-modal-repeat: repeat;
   --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
-  --user-modal-contrast: 100%;
-  --user-modal-saturation: 100%;
-  --user-modal-grayscale: 0%;
+  --user-modal-brightness: 119%;
+  --user-modal-contrast: 154%;
+  --user-modal-saturation: 156%;
+  --user-modal-grayscale: 29%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 6px;
   --home-icon: url('https://i.imgur.com/U3kqC7X.jpg');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #EB8F43;
-  --channel-color: rgb(30,225,132,0.5);
-  --muted-color: rgb(221,34,34,0.55);
+  --channel-color: rgb(24,233,128,0.59);
+  --muted-color: rgb(215,1,1,0.46);
   --online-color: #3ACDA1;
   --idle-color: #FAA61A;
   --dnd-color: #982929;
@@ -67,7 +68,7 @@
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
-  --channels-width: 250px;
+  --channels-width: 245px;
   --members-width: 230px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
