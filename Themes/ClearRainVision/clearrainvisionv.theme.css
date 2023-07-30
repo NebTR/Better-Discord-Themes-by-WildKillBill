@@ -1,7 +1,7 @@
 /**
- * @name ClearRainVisionV1.0.0.1
+ * @name ClearRainVision
  * @author WildKillBill
- * @version 6.3.0
+ * @version 1.0.0.2
  * @description Highly customizable and beautiful theme for BetterDiscord.
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
@@ -13,11 +13,11 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #6D6D6D;
-  --hover-color: #C1C1C1;
-  --success-color: #3ED590;
+  --main-color: #63EBAE;
+  --hover-color: #10C373;
+  --success-color: #5DF3AE;
   --danger-color: #982929;
-  --url-color: #28EFAE;
+  --url-color: #A2E1CC;
   --undefined: 0;
   --background-image: url('https://i.imgur.com/7KtGxBQ.gif');
   --background-shading: 100%;
@@ -58,8 +58,8 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #EB8F43;
-  --channel-color: rgb(13,217,156,0.63);
-  --muted-color: rgb(231,16,56,0.52);
+  --channel-color: rgb(30,225,132,0.5);
+  --muted-color: rgb(221,34,34,0.55);
   --online-color: #3ACDA1;
   --idle-color: #FAA61A;
   --dnd-color: #982929;
