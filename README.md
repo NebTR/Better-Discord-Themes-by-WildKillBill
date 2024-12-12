@@ -1,4 +1,4 @@
-# Better discord themes by WildKillBill
+# Better discord themes by NebTR
 ##### v1.0.2.6 (5/08/2023)
 <hr>
 
